@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b59a2bbf.chunk.css",
+    "main.js": "/static/js/main.6bda926d.chunk.js",
+    "main.js.map": "/static/js/main.6bda926d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aba64d7e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aba64d7e.js.map",
+    "static/css/2.316f76a0.chunk.css": "/static/css/2.316f76a0.chunk.css",
+    "static/js/2.7f6947d8.chunk.js": "/static/js/2.7f6947d8.chunk.js",
+    "static/js/2.7f6947d8.chunk.js.map": "/static/js/2.7f6947d8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.316f76a0.chunk.css.map": "/static/css/2.316f76a0.chunk.css.map",
+    "static/css/main.b59a2bbf.chunk.css.map": "/static/css/main.b59a2bbf.chunk.css.map",
+    "static/js/2.7f6947d8.chunk.js.LICENSE.txt": "/static/js/2.7f6947d8.chunk.js.LICENSE.txt",
+    "static/media/WtfNav.css": "/static/media/Delmar-17.ed89f104.gif",
+    "static/media/Kronk.5d0708bc.svg": "/static/media/Kronk.5d0708bc.svg",
+    "static/media/NavKronk.044f0451.png": "/static/media/NavKronk.044f0451.png",
+    "static/media/delmarMain.1413dae2.jpg": "/static/media/delmarMain.1413dae2.jpg",
+    "static/media/drill.6e987088.png": "/static/media/drill.6e987088.png",
+    "static/media/image-2.1-min.30ed1cc2.jpg": "/static/media/image-2.1-min.30ed1cc2.jpg",
+    "static/media/image-4.5-min.cfb9e24f.jpg": "/static/media/image-4.5-min.cfb9e24f.jpg",
+    "static/media/image-5.2-min.a8e25016.jpg": "/static/media/image-5.2-min.a8e25016.jpg",
+    "static/media/image-min.9a5ce453.jpg": "/static/media/image-min.9a5ce453.jpg",
+    "static/media/Facilities.css": "/static/media/image2.0dbfeb02.png",
+    "static/media/kort1.00c12eb0.png": "/static/media/kort1.00c12eb0.png",
+    "static/media/kort2.7ade29f7.png": "/static/media/kort2.7ade29f7.png",
+    "static/media/kort3.b0fdecf1.png": "/static/media/kort3.b0fdecf1.png",
+    "static/media/mironMain.96f9691c.jpg": "/static/media/mironMain.96f9691c.jpg",
+    "static/media/support.f4d958b8.png": "/static/media/support.f4d958b8.png",
+    "static/media/voomyMain.4b4957a9.jpg": "/static/media/voomyMain.4b4957a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aba64d7e.js",
+    "static/css/2.316f76a0.chunk.css",
+    "static/js/2.7f6947d8.chunk.js",
+    "static/css/main.b59a2bbf.chunk.css",
+    "static/js/main.6bda926d.chunk.js"
+  ]
+}
